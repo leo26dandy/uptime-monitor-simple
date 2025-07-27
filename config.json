@@ -1,0 +1,14 @@
+{
+  "websites": [
+    "https://www.google.com",
+    "https://www.github.com",
+    "https://www.twitter.com"
+  ],
+  "email": {
+    "smtp_host": "sandbox.smtp.mailtrap.io",
+    "smtp_port": 587,
+    "sender": "823c71ef08c7e5",
+    "password": "1517b77df59047",
+    "recipient": "from@example.com"
+  }
+}
